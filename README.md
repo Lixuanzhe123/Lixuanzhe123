@@ -34,12 +34,6 @@
 | **Engineering** | Docker, Nginx, APScheduler, Git, Linux, Tencent Cloud CVM |
 | **Crawler** | Requests, Selenium, Scrapy, Data Parsing and Cleaning |
 
-## Honors & Certifications
-
-- 计算机软件著作权：生成式 AI 学习分析平台软件 V1.0（登记号：`2026SR0262670`）。
-- 计算机设计大赛粤港澳大湾区赛三等奖。
-- 广东省第十三届蓝桥杯全国软件大赛 C/C++ 程序设计大学 B 组三等奖。
-
 ## GitHub Stats
 
 <div align="center">
