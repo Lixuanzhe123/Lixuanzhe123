@@ -1,7 +1,5 @@
 <div align="center">
 
-# Hi, I'm 李轩喆 👋
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&center=true&vCenter=true&width=720&lines=Hi%2C+I%27m+Lixuanzhe;AI+Application+%26+Full-Stack+Engineer;Python+Backend+%7C+RAG+%7C+LangGraph+Agents;Building+Reliable+AI+Products;CS+Student+%40+Zhaoqing+University)](https://git.io/typing-svg)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Lixuanzhe123-181717?logo=github)](https://github.com/Lixuanzhe123)
